@@ -1,5 +1,7 @@
 # LazyCseq Benchmark Generator
 
+*Progetto per l'esame di TECNICHE AUTOMATICHE PER LA CORRETTEZZA DEL SOFTWARE.*
+
 A python script for generating benchmark on lock-free data strucures.  
 
 ## Repository Structure
