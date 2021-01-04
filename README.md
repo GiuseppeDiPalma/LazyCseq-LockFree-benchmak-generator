@@ -2,7 +2,7 @@
 
 *Progetto per l'esame di TECNICHE AUTOMATICHE PER LA CORRETTEZZA DEL SOFTWARE.*
 
-A python script for generating benchmark on lock-free data strucures.  
+This software provides a simple way to test a lock-free data structure using Bounded Model Checking and Lazy Sequentialization. When runned, a set of repetable benchmark are generated and a counterexample is shown.
 
 ## Repository Structure
 
